@@ -1,3 +1,12 @@
+#ASP.NET Core
+
+
+
+#https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+
+
+
+
 pool: MyAgentPool
 steps:
 - bash: echo hello world
